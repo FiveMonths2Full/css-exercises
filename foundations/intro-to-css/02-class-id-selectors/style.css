@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: pink;
     font-family:"Verdana", "DejaVu Sans", sans-serif ;
 }
@@ -6,8 +6,8 @@ p {
     color: rgb(20,20,100);
     font-size: 36px;
 }
-#three {
-    font-size: 36px;
+.adjustfontsize {
+    font-size: 24px
 }
 #four {
     background-color: rgb(100,255,100);
